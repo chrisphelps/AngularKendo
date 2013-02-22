@@ -1,0 +1,578 @@
+[
+    {
+        "competitor_number": 1,
+        "name": "Iwashita Tomohisa",
+        "age": 33,
+        "grade": "R6-dan",
+        "entryCount": "2",
+        "occupation": "PoliceOfficer",
+        "prefecture": "Chiba"
+    },
+    {
+        "competitor_number": 2,
+        "name": "Nakamura Naoki",
+        "age": 29,
+        "grade": "5-dan",
+        "entryCount": "3",
+        "occupation": "Police Officer",
+        "prefecture": "Ishikawa"
+    },
+    {
+        "competitor_number": 3,
+        "name": "Utsunomiya Tooru",
+        "age": 35,
+        "grade": "R6-dan",
+        "entryCount": "3",
+        "occupation": "Police Officer",
+        "prefecture": "Oita"
+    },
+    {
+        "competitor_number": 4,
+        "name": "Kinoshita Tomonari",
+        "age": 28,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Kagawa"
+    },
+    {
+        "competitor_number": 5,
+        "name": "Enmyo Toshifumi",
+        "age": 26,
+        "grade": "4-dan",
+        "entryCount": "1",
+        "occupation": "Prison Officer",
+        "prefecture": "Hiroshima"
+    },
+    {
+        "competitor_number": 6,
+        "name": "Kanazawa Kenji",
+        "age": 27,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Miyagi"
+    },
+    {
+        "competitor_number": 7,
+        "name": "Akao Kazuhiko",
+        "age": 31,
+        "grade": "5-dan",
+        "entryCount": "4",
+        "occupation": "Police Officer",
+        "prefecture": "Gunma"
+    },
+    {
+        "competitor_number": 8,
+        "name": "Furukawa Kosuke",
+        "age": 32,
+        "grade": "R6-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Osaka"
+    },
+    {
+        "competitor_number": 9,
+        "name": "Nakano Takahiro",
+        "age": 31,
+        "grade": "R6-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Kyoto"
+    },
+    {
+        "competitor_number": 10,
+        "name": "Matsuwaki Shinsuke",
+        "age": 33,
+        "grade": "R6-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Tokyo"
+    },
+    {
+        "competitor_number": 11,
+        "name": "Shimogawa Ryosuke",
+        "age": 31,
+        "grade": "6-dan",
+        "entryCount": "3",
+        "occupation": "Police Officer",
+        "prefecture": "Fukuoka"
+    },
+    {
+        "competitor_number": 12,
+        "name": "Shimada Takafumi",
+        "age": 28,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Saitama"
+    },
+    {
+        "competitor_number": 13,
+        "name": "Kimura Masashi",
+        "age": 32,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Mie"
+    },
+    {
+        "competitor_number": 14,
+        "name": "Tsuchida Keisuke",
+        "age": 30,
+        "grade": "5-dan",
+        "entryCount": "5",
+        "occupation": "Police Officer",
+        "prefecture": "Akita"
+    },
+    {
+        "competitor_number": 15,
+        "name": "Suzuki Hidenori",
+        "age": 29,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Fukui"
+    },
+    {
+        "competitor_number": 16,
+        "name": "Shikano Mitsunari",
+        "age": 27,
+        "grade": "5-dan",
+        "entryCount": "5",
+        "occupation": "High School Teacher",
+        "prefecture": "Yamanashi"
+    },
+    {
+        "competitor_number": 17,
+        "name": "Yoneya Yuichi",
+        "age": 35,
+        "grade": "R6-dan",
+        "entryCount": "8",
+        "occupation": "Police Officer",
+        "prefecture": "Saitama"
+    },
+    {
+        "competitor_number": 18,
+        "name": "Iwasaki Ryuichiro",
+        "age": 23,
+        "grade": "4-dan",
+        "entryCount": "1",
+        "occupation": "High School Teacher",
+        "prefecture": "Iwate"
+    },
+    {
+        "competitor_number": 19,
+        "name": "Kamamura Naoya",
+        "age": 31,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Ehime"
+    },
+    {
+        "competitor_number": 20,
+        "name": "Ishibashi Taisuke",
+        "age": 35,
+        "grade": "R6-dan",
+        "entryCount": "4",
+        "occupation": "Police Officer",
+        "prefecture": "Niigata"
+    },
+    {
+        "competitor_number": 21,
+        "name": "Shimizu Motoshi",
+        "age": 36,
+        "grade": "R6-dan",
+        "entryCount": "5",
+        "occupation": "Police Officer",
+        "prefecture": "Aichi"
+    },
+    {
+        "competitor_number": 22,
+        "name": "Tominaga Noriyuki",
+        "age": 28,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Kagoshima"
+    },
+    {
+        "competitor_number": 23,
+        "name": "Okido Satoru",
+        "age": 27,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Osaka"
+    },
+    {
+        "competitor_number": 24,
+        "name": "Kawasaki Shin",
+        "age": 39,
+        "grade": "R7-dan",
+        "entryCount": "3",
+        "occupation": "High School Teacher",
+        "prefecture": "Ibaragi"
+    },
+    {
+        "competitor_number": 25,
+        "name": "Ushima Ryosuke",
+        "age": 26,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Company Worker",
+        "prefecture": "Hokkaido"
+    },
+    {
+        "competitor_number": 26,
+        "name": "Shiratori Keisuke",
+        "age": 30,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Shizuoka"
+    },
+    {
+        "competitor_number": 27,
+        "name": "Koe Ryunosuke",
+        "age": 26,
+        "grade": "4-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Yamaguchi"
+    },
+    {
+        "competitor_number": 28,
+        "name": "Nishimura Ryutaro",
+        "age": 21,
+        "grade": "3-dan",
+        "entryCount": "1",
+        "occupation": "4thYr. University Student",
+        "prefecture": "Saga"
+    },
+    {
+        "competitor_number": 29,
+        "name": "Amishiro Tadakatsu",
+        "age": 31,
+        "grade": "5-dan",
+        "entryCount": "3",
+        "occupation": "Police Officer",
+        "prefecture": "Hyogo"
+    },
+    {
+        "competitor_number": 30,
+        "name": "Takanabe Susumu",
+        "age": 35,
+        "grade": "R6-dan",
+        "entryCount": "9",
+        "occupation": "Police Officer",
+        "prefecture": "Kanagawa"
+    },
+    {
+        "competitor_number": 31,
+        "name": "Murakata Kosuke",
+        "age": 26,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Fukuoka"
+    },
+    {
+        "competitor_number": 32,
+        "name": "Yamamoto Yuki",
+        "age": 36,
+        "grade": "R6-dan",
+        "entryCount": "1",
+        "occupation": "Company Worker",
+        "prefecture": "Tokyo"
+    },
+    {
+        "competitor_number": 33,
+        "name": "Nakama Yosuke",
+        "age": 32,
+        "grade": "6-dan",
+        "entryCount": "3",
+        "occupation": "Police Officer",
+        "prefecture": "Okinawa"
+    },
+    {
+        "competitor_number": 34,
+        "name": "Izumi Yushin",
+        "age": 29,
+        "grade": "5-dan",
+        "entryCount": "4",
+        "occupation": "Prison Officer",
+        "prefecture": "Aomori"
+    },
+    {
+        "competitor_number": 35,
+        "name": "Tanaka Tatsuya",
+        "age": 26,
+        "grade": "4-dan",
+        "entryCount": "1",
+        "occupation": "University Instructor",
+        "prefecture": "Tokyo"
+    },
+    {
+        "competitor_number": 36,
+        "name": "Oishi Hiroyuki",
+        "age": 26,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Osaka"
+    },
+    {
+        "competitor_number": 37,
+        "name": "Mizobe Toshikazu",
+        "age": 27,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Nagano"
+    },
+    {
+        "competitor_number": 38,
+        "name": "Oike Tomoyuki",
+        "age": 29,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Prison Officer",
+        "prefecture": "Okayama"
+    },
+    {
+        "competitor_number": 39,
+        "name": "Uchida Katsuyuki",
+        "age": 31,
+        "grade": "5-dan",
+        "entryCount": "4",
+        "occupation": "High School Teacher",
+        "prefecture": "Shizuoka"
+    },
+    {
+        "competitor_number": 40,
+        "name": "Ishii Hiroyuki",
+        "age": 32,
+        "grade": "6-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Chiba"
+    },
+    {
+        "competitor_number": 41,
+        "name": "Ishizaki Takeshi",
+        "age": 32,
+        "grade": "6-dan",
+        "entryCount": "3",
+        "occupation": "Police Officer",
+        "prefecture": "Nara"
+    },
+    {
+        "competitor_number": 42,
+        "name": "Kawakami Arimitsu",
+        "age": 37,
+        "grade": "R6-dan",
+        "entryCount": "1",
+        "occupation": "University Teacher",
+        "prefecture": "Ibaragi"
+    },
+    {
+        "competitor_number": 43,
+        "name": "Kondo Masaaki",
+        "age": 34,
+        "grade": "5-dan",
+        "entryCount": "4",
+        "occupation": "Police Officer",
+        "prefecture": "Tokushima"
+    },
+    {
+        "competitor_number": 44,
+        "name": "Inoue Hideyuki",
+        "age": 36,
+        "grade": "R6-dan",
+        "entryCount": "5",
+        "occupation": "Police Officer",
+        "prefecture": "Toyama"
+    },
+    {
+        "competitor_number": 45,
+        "name": "Harada Kenji",
+        "age": 30,
+        "grade": "5-dan",
+        "entryCount": "6",
+        "occupation": "Police Officer",
+        "prefecture": "Fukushima"
+    },
+    {
+        "competitor_number": 46,
+        "name": "Norimoto Shiko",
+        "age": 29,
+        "grade": "4-dan",
+        "entryCount": "5",
+        "occupation": "Doctor",
+        "prefecture": "Tottori"
+    },
+    {
+        "competitor_number": 47,
+        "name": "Furusawa Tsuneomi",
+        "age": 33,
+        "grade": "R6-dan",
+        "entryCount": "7",
+        "occupation": "Police Officer",
+        "prefecture": "Kumamoto"
+    },
+    {
+        "competitor_number": 48,
+        "name": "Higashinaga Yukihiro",
+        "age": 34,
+        "grade": "R6-dan",
+        "entryCount": "7",
+        "occupation": "Police Officer",
+        "prefecture": "Saitama"
+    },
+    {
+        "competitor_number": 49,
+        "name": "Uchimura Ryoichi",
+        "age": 31,
+        "grade": "6-dan",
+        "entryCount": "6",
+        "occupation": "Police Officer",
+        "prefecture": "Tokyo"
+    },
+    {
+        "competitor_number": 50,
+        "name": "Watanabe Yudai",
+        "age": 28,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Yamagata"
+    },
+    {
+        "competitor_number": 51,
+        "name": "Tsuda Kentaro",
+        "age": 30,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "PoliceOfficer",
+        "prefecture": "Aichi"
+    },
+    {
+        "competitor_number": 52,
+        "name": "Ura Naoki",
+        "age": 29,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Hyogo"
+    },
+    {
+        "competitor_number": 53,
+        "name": "Kotani Akinori",
+        "age": 27,
+        "grade": "5-dan",
+        "entryCount": "3",
+        "occupation": "Police Officer",
+        "prefecture": "Chiba"
+    },
+    {
+        "competitor_number": 54,
+        "name": "Onoda Toshihide",
+        "age": 34,
+        "grade": "R6-dan",
+        "entryCount": "5",
+        "occupation": "Police Officer",
+        "prefecture": "Nagasaki"
+    },
+    {
+        "competitor_number": 55,
+        "name": "Onda Hidekazu",
+        "age": 34,
+        "grade": "R6-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Shimane"
+    },
+    {
+        "competitor_number": 56,
+        "name": "Murata Hironori",
+        "age": 29,
+        "grade": "5-dan",
+        "entryCount": "2",
+        "occupation": "Police Officer",
+        "prefecture": "Wakayama"
+    },
+    {
+        "competitor_number": 57,
+        "name": "Nishiyama Hirokazu",
+        "age": 28,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Kochi"
+    },
+    {
+        "competitor_number": 58,
+        "name": "Shodai Kenji",
+        "age": 30,
+        "grade": "6-dan",
+        "entryCount": "6",
+        "occupation": "Police Officer",
+        "prefecture": "Kanagawa"
+    },
+    {
+        "competitor_number": 59,
+        "name": "Ogura Yutaro",
+        "age": 25,
+        "grade": "4-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Fukuoka"
+    },
+    {
+        "competitor_number": 60,
+        "name": "Hojo Masanori",
+        "age": 21,
+        "grade": "4-dan",
+        "entryCount": "1",
+        "occupation": "4thYr. University Student",
+        "prefecture": "Tochigi"
+    },
+    {
+        "competitor_number": 61,
+        "name": "Masuda Kotaro",
+        "age": 28,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Company Worker",
+        "prefecture": "Shiga"
+    },
+    {
+        "competitor_number": 62,
+        "name": "Ushirogi Akihito",
+        "age": 27,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Hokkaido"
+    },
+    {
+        "competitor_number": 63,
+        "name": "Oshige Takahiro",
+        "age": 32,
+        "grade": "6-dan",
+        "entryCount": "1",
+        "occupation": "Police Officer",
+        "prefecture": "Miyazaki"
+    },
+    {
+        "competitor_number": 64,
+        "name": "Nakagawa Toshikatsu",
+        "age": 28,
+        "grade": "5-dan",
+        "entryCount": "1",
+        "occupation": "PoliceOfficer",
+        "prefecture": "Gifu"
+    }
+]
