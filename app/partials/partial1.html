@@ -20,7 +20,12 @@
             <td>{{entry.entryCount}}</td>
             <td>{{entry.occupation}}</td>
             <td>{{entry.prefecture}}</td>
-            <td>{{entry.selected}}</td>
+            <td>
+            <div ng-switch on="entry.selected">
+                <i ng-switch-when="true" class="icon-minus"></i>
+                <i ng-switch-default class="icon-plus"></i>
+            <div>
+            </td>
         </tr>
     </tbody>
 </table>

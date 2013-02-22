@@ -6,7 +6,8 @@
         "grade": "R6-dan",
         "entryCount": "2",
         "occupation": "PoliceOfficer",
-        "prefecture": "Chiba"
+        "prefecture": "Chiba",
+        "selected": "true"
     },
     {
         "competitor_number": 2,
