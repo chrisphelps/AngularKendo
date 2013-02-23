@@ -1,4 +1,5 @@
-<table class="table table-striped table-hover" ng-controller="AjkcListCtrl">
+<div ng-controller="AjkcListCtrl">
+<table class="table table-striped table-hover" >
     <thead>
         <tr>
             <th>#</th>
@@ -22,10 +23,15 @@
             <td>{{entry.prefecture}}</td>
             <td>
             <div ng-switch on="entry.selected">
-                <i ng-switch-when="true" class="icon-minus"></i>
-                <i ng-switch-default class="icon-plus"></i>
-            <div>
+                <div ng-switch-when="true">
+                    <i class="icon-minus" ng-click="toggleSelected($index,false)"></i>
+                </div>
+                <div ng-switch-default>
+                    <i class="icon-plus" ng-click="toggleSelected($index,true)"></i>
+                </div>
+            </div>
             </td>
         </tr>
     </tbody>
 </table>
+</div>
