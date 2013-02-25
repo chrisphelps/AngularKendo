@@ -1,37 +1,52 @@
 <div ng-controller="AjkcListCtrl">
-<table class="table table-striped table-hover" >
-    <thead>
-        <tr>
-            <th>#</th>
-            <th>Name</th>
-            <th>Grade</th>
-            <th>Age</th>
-            <th>Entries</th>
-            <th>Occupation</th>
-            <th>Prefecture</th>
-            <th>Selected</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr ng-repeat="entry in entries">
-            <td>{{entry.competitor_number}}</td>
-            <td>{{entry.name}}</td>
-            <td>{{entry.grade}}</td>
-            <td>{{entry.age}}</td>
-            <td>{{entry.entryCount}}</td>
-            <td>{{entry.occupation}}</td>
-            <td>{{entry.prefecture}}</td>
-            <td>
-            <div ng-switch on="entry.selected">
-                <div ng-switch-when="true">
-                    <i class="icon-minus" ng-click="toggleSelected($index,false)"></i>
-                </div>
-                <div ng-switch-default>
-                    <i class="icon-plus" ng-click="toggleSelected($index,true)"></i>
-                </div>
-            </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
+
+
+<a href="" ng-click="toggleExpanded()">
+    <div ng-switch on="expanded">
+        <div ng-switch-when="true"><i class="icon-minus"></i>Contract</div>
+        <div ng-switch-when="false"><i class="icon-plus"></i>Expand</div>
+    </div>
+</a>
+
+<div ng-switch on="expanded">
+    <div ng-switch-when="true">
+        <table class="table table-striped table-hover" >
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Grade</th>
+                    <th>Age</th>
+                    <th>Entries</th>
+                    <th>Occupation</th>
+                    <th>Prefecture</th>
+                    <th>Selected</th>
+                </tr>
+            </thead>
+                <tr ng-repeat="entry in entries">
+                    <td>{{entry.competitor_number}}</td>
+                    <td>{{entry.name}}</td>
+                    <td>{{entry.grade}}</td>
+                    <td>{{entry.age}}</td>
+                    <td>{{entry.entryCount}}</td>
+                    <td>{{entry.occupation}}</td>
+                    <td>{{entry.prefecture}}</td>
+                    <td>
+                    <div ng-switch on="entry.selected">
+                        <div ng-switch-when="true">
+                            <i class="icon-minus" ng-click="toggleSelected($index,false)"></i>
+                        </div>
+                        <div ng-switch-default>
+                            <i class="icon-plus" ng-click="toggleSelected($index,true)"></i>
+                        </div>
+                    </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div ng-switch-default>
+        Click on the plus to see the table
+    </div>
+</div>
 </div>
