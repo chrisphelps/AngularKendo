@@ -1,6 +1,5 @@
 <div ng-controller="AjkcListCtrl">
 
-
 <a href="" ng-click="toggleExpanded()">
     <div ng-switch on="expanded">
         <div ng-switch-when="true"><i class="icon-minus"></i>Contract</div>
@@ -23,6 +22,8 @@
                     <th>Selected</th>
                 </tr>
             </thead>
+            <tbody>
+                <div></div>
                 <tr ng-repeat="entry in entries">
                     <td>{{entry.competitor_number}}</td>
                     <td>{{entry.name}}</td>
@@ -32,14 +33,14 @@
                     <td>{{entry.occupation}}</td>
                     <td>{{entry.prefecture}}</td>
                     <td>
-                    <div ng-switch on="entry.selected">
-                        <div ng-switch-when="true">
-                            <i class="icon-minus" ng-click="toggleSelected($index,false)"></i>
+                        <div ng-switch on="entry.selected">
+                            <div ng-switch-when="true">
+                                <i class="icon-minus" ng-click="toggleSelected($index,false)"></i>
+                            </div>
+                            <div ng-switch-default>
+                                <i class="icon-plus" ng-click="toggleSelected($index,true)"></i>
+                            </div>
                         </div>
-                        <div ng-switch-default>
-                            <i class="icon-plus" ng-click="toggleSelected($index,true)"></i>
-                        </div>
-                    </div>
                     </td>
                 </tr>
             </tbody>
@@ -49,4 +50,5 @@
         Click on the plus to see the table
     </div>
 </div>
+
 </div>

@@ -3,6 +3,10 @@ function AjkcListCtrl($scope, $http) {
         $scope.entries = data;
     });
 
+    $scope.save = function() {
+
+    }
+
     $scope.expanded = false;
 
     $scope.toggleExpanded = function() {
