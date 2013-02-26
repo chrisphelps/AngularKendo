@@ -8,16 +8,12 @@ describe('MyCtrl1', function(){
 
   beforeEach(function(){
     myScope = {},
-    myCtrl1 = new MyCtrl1(myScope);
+    myCtrl1 = new MyCtrl1();
   });
 
 
   it('should ....', function() {
     //spec body
-  });
-
-  it('should return false for 5', function() {
-      expect(myScope.myfun(5)).toBe(true);
   });
 });
 

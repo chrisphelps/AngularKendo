@@ -3,9 +3,9 @@ function AjkcListCtrl($scope, $http) {
         $scope.entries = data;
     });
 
-    $scope.save = function() {
-
-    }
+    $http.get('data/prefectures.json').success(function(data) {
+        $scope.prefectures = data;
+    });
 
     $scope.expanded = false;
 

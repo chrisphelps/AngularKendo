@@ -3,10 +3,7 @@
 /* Controllers */
 
 
-function MyCtrl1($scope) {
-    $scope.myfun = function(i) {
-        if (i == 5) return true;
-    }
+function MyCtrl1() {
 }
 MyCtrl1.$inject = [];
 
