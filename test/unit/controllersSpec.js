@@ -4,14 +4,20 @@
 
 describe('MyCtrl1', function(){
   var myCtrl1;
+  var myScope;
 
   beforeEach(function(){
-    myCtrl1 = new MyCtrl1();
+    myScope = {},
+    myCtrl1 = new MyCtrl1(myScope);
   });
 
 
   it('should ....', function() {
     //spec body
+  });
+
+  it('should return false for 5', function() {
+      expect(myScope.myfun(5)).toBe(true);
   });
 });
 
