@@ -4,7 +4,7 @@
 // Declare app level module which depends on filters, and services
 angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.directives']).
   config(['$routeProvider', function($routeProvider) {
-    $routeProvider.when('/competitors', {templateUrl: 'partials/partial1.html', controller: MyCtrl1});
-    $routeProvider.when('/events', {templateUrl: 'partials/partial2.html', controller: MyCtrl2});
+    $routeProvider.when('/competitors', {templateUrl: 'partials/competitors.html', controller: MyCtrl1});
+    $routeProvider.when('/events', {templateUrl: 'partials/events.html', controller: MyCtrl2});
     $routeProvider.otherwise({redirectTo: '/competitors'});
   }]);
